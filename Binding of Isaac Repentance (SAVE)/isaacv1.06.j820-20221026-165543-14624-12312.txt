@@ -1,0 +1,1900 @@
+[INFO] - timeBeginPeriod( 1 )
+[INFO] - OpenGL version 4.6.0 NVIDIA 517.48
+[INFO] - GLSL version 4.60 NVIDIA
+[INFO] - Framebuffer ID: 1
+[INFO] - Renderbuffer ID: 1 size 1024x1024
+[INFO] - Initializing theoraplayer with theora support.
+[INFO] - Initializing Theoraplayer Video Playback Library (2.0)
+  - libtheora version: Xiph.Org libtheora 1.2.0alpha 20100924 (Ptalarbvorm)
+  - libvorbis version: Xiph.Org libVorbis 1.3.4
+------------------------------------
+[INFO] - Changing number of worker threads to: 1
+[INFO] - Running Lua Script: resources/scripts/enums.lua
+[INFO] - Lua mem usage: 705 KB and 726 bytes
+[INFO] - Running Lua Script: resources/scripts/main.lua
+[INFO] - Lua mem usage: 756 KB and 494 bytes
+[INFO] - Binding of Isaac: Repentance v1.06.J820
+[INFO] - load archives: 8571 milliseconds
+[INFO] - Initialize ColorOffset Shader
+[INFO] - Initialize Pixelation Shader
+[INFO] - Initialize Bloom Shader
+[INFO] - Initialize Color Correction Shader
+[INFO] - Initialize HQ4X Shader
+[INFO] - Initialize Shockwave Shader
+[INFO] - Initialize OldTV Shader
+[INFO] - Initialize Water Surface Shader
+[INFO] - Initialize Water Surface V2 Shader
+[INFO] - Initialize Hallucination Shader
+[INFO] - Initialize Colormod Shader
+[INFO] - Initialize Color Offset Champion Shader
+[INFO] - Initialize Background Shader
+[INFO] - Initialize Water Overlay Shader
+[INFO] - Initialize Color Offset Dogma Shader
+[INFO] - Initialize Color Offset Gold Shader
+[INFO] - Initialize Dizzy Shader
+[INFO] - Initialize Heat Wave Shader
+[INFO] - Initialize Mirror Shader
+[INFO] - preload anm2: 121 milliseconds
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - Viewport: 960x540
+[INFO] - Framebuffer Width: 960 
+ Render Width: 960 
+ Window Width: 960 
+ Multiplier: 2.250010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+[INFO] - Viewport: 1920x1080
+[INFO] - Framebuffer Width: 1920 
+ Render Width: 960 
+ Window Width: 1920 
+ Multiplier: 4.500010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+[INFO] - HQX4 size: 960x540
+[INFO] - Running Lua Script: C:\Users\Mateo\Desktop\Mateo\Juegos\The Binding of Isaac Repentance\The Binding Of Isaac Repentance Modded/mods/bigearlost/main.lua
+[INFO] - Lua mem usage: 757 KB and 665 bytes
+[INFO] - Running Lua Script: C:\Users\Mateo\Desktop\Mateo\Juegos\The Binding of Isaac Repentance\The Binding Of Isaac Repentance Modded/mods/baile/main.lua
+[INFO] - Lua mem usage: 793 KB and 691 bytes
+[INFO] - playing cutscene 1 (Intro).
+[INFO] - Renderbuffer ID: 1 size 2048x2048
+[INFO] - Framebuffer Width: 1920 
+ Render Width: 1920 
+ Window Width: 960 
+ Multiplier: 0.500000 
+ DP per point: 2.000000 
+ Point Scale: 2.000000 
+[INFO] - Framebuffer Width: 1920 
+ Render Width: 1920 
+ Window Width: 1920 
+ Multiplier: 0.250000 
+ DP per point: 1.000000 
+ Point Scale: 4.000000 
+[INFO] - Framebuffer Width: 1920 
+ Render Width: 1920 
+ Window Width: 1920 
+ Multiplier: 0.222222 
+ DP per point: 1.000000 
+ Point Scale: 4.500000 
+[INFO] - HQX4 size: 1920x1080
+[INFO] - Cutscene: correct anm2 timing: f0 -> f4
+[INFO] - Framebuffer Width: 960 
+ Render Width: 960 
+ Window Width: 960 
+ Multiplier: 0.444444 
+ DP per point: 1.000000 
+ Point Scale: 2.250000 
+[INFO] - Framebuffer Width: 1366 
+ Render Width: 1366 
+ Window Width: 1366 
+ Multiplier: 0.312592 
+ DP per point: 1.000000 
+ Point Scale: 3.199063 
+[INFO] - HQX4 size: 1366x749
+[INFO] - Cutscene: correct anm2 timing: f30 -> f34
+[INFO] - Framebuffer Width: 1920 
+ Render Width: 1920 
+ Window Width: 1920 
+ Multiplier: 0.222222 
+ DP per point: 1.000000 
+ Point Scale: 4.500000 
+[INFO] - HQX4 size: 1920x1080
+[INFO] - Cutscene: correct anm2 timing: f46 -> f50
+[INFO] - Viewport: 1920x1080
+[INFO] - Framebuffer Width: 1920 
+ Render Width: 960 
+ Window Width: 1920 
+ Multiplier: 4.500010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+[INFO] - HQX4 size: 960x540
+[INFO] - Menu Manager preCrossfade
+[INFO] - Menu Manager Init
+[INFO] - Menu Title Init
+[INFO] - Menu Save Init
+[INFO] - Menu_Save Pre Prompt init
+[INFO] - Menu_Save loading slot drawings
+[INFO] - Menu Save Reset
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - Loading PersistentData 1 from SteamCloud!
+[INFO] - Loading PersistentGameData from Steam Cloud: rep_persistentgamedata1.dat.
+[INFO] - read checksum: 0b2e8dc4, generated checksum: 0b2e8dc4
+[INFO] - Reading Achievements
+[INFO] - Done Reading Achievements
+[INFO] - Reading Counters
+[INFO] - Done Reading Counters
+[INFO] - Reading Level Counters
+[INFO] - Done Reading Level Counters
+[INFO] - Reading Collectibles
+[INFO] - Done Reading Collectibles
+[INFO] - Reading Mini Bosses
+[INFO] - Done Reading Mini Bosses
+[INFO] - Reading Bosses
+[INFO] - Done Reading Bosses
+[INFO] - Reading Challenge Counters
+[INFO] - Done Reading Challenge Counters
+[INFO] - Reading Cutscene Counters
+[INFO] - Done Reading Cutscene Counters
+[INFO] - Reading GameSettings
+[INFO] - Done Reading GameSettings
+[INFO] - Reading Special Seed Counters
+[INFO] - Done Reading Special Seed Counters
+[INFO] - Reading Bestiary Counters
+[INFO] - Done Reading Bestiary Counters
+[INFO] - Saving PersistentGameData to Steam Cloud: rep_persistentgamedata1.dat.
+[INFO] - Loading GameState 1 from SteamCloud!
+[INFO] - GameState Version Loaded: 138
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - Loading PersistentData 2 from SteamCloud!
+[INFO] - Loading PersistentGameData from Steam Cloud: rep_persistentgamedata2.dat.
+[INFO] - SteamCloud could not find or open rep_persistentgamedata2.dat.
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - Trying to import AB+ Steam save.
+[INFO] - SteamCloud could not find or open AB+ save file abp_persistentgamedata2.dat.
+[INFO] - SteamCloud could not find or open AB save file ab_persistentgamedata2.dat.
+[INFO] - Starting with a clean save state.
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - Cannot load GameState if PersistentData is missing!
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - Loading PersistentData 3 from SteamCloud!
+[INFO] - Loading PersistentGameData from Steam Cloud: rep_persistentgamedata3.dat.
+[INFO] - SteamCloud could not find or open rep_persistentgamedata3.dat.
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - Trying to import AB+ Steam save.
+[INFO] - SteamCloud could not find or open AB+ save file abp_persistentgamedata3.dat.
+[INFO] - SteamCloud could not find or open AB save file ab_persistentgamedata3.dat.
+[INFO] - Starting with a clean save state.
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - Cannot load GameState if PersistentData is missing!
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - Menu Game Init
+[INFO] - Menu Daily Init
+[INFO] - Menu Character Init
+[INFO] - Menu SpecialSeed Init
+[INFO] - Menu Challenge Init
+[INFO] - Menu Collection Init
+[INFO] - Menu Stats Init
+[INFO] - Menu Mods Init
+[INFO] - Menu Options Init
+[INFO] - Menu Controller Init
+[INFO] - Menu Key Config Init
+[INFO] - Menu Cutscene Init
+[INFO] - Menu Bestiary Init
+[INFO] - Menu Custom Challenge Init
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - Loading PersistentData 1 from SteamCloud!
+[INFO] - Loading PersistentGameData from Steam Cloud: rep_persistentgamedata1.dat.
+[INFO] - read checksum: 0bf11610, generated checksum: 0bf11610
+[INFO] - Reading Achievements
+[INFO] - Done Reading Achievements
+[INFO] - Reading Counters
+[INFO] - Done Reading Counters
+[INFO] - Reading Level Counters
+[INFO] - Done Reading Level Counters
+[INFO] - Reading Collectibles
+[INFO] - Done Reading Collectibles
+[INFO] - Reading Mini Bosses
+[INFO] - Done Reading Mini Bosses
+[INFO] - Reading Bosses
+[INFO] - Done Reading Bosses
+[INFO] - Reading Challenge Counters
+[INFO] - Done Reading Challenge Counters
+[INFO] - Reading Cutscene Counters
+[INFO] - Done Reading Cutscene Counters
+[INFO] - Reading GameSettings
+[INFO] - Done Reading GameSettings
+[INFO] - Reading Special Seed Counters
+[INFO] - Done Reading Special Seed Counters
+[INFO] - Reading Bestiary Counters
+[INFO] - Done Reading Bestiary Counters
+[INFO] - Saving PersistentGameData to Steam Cloud: rep_persistentgamedata1.dat.
+[INFO] - Loading GameState 1 from SteamCloud!
+[INFO] - GameState Version Loaded: 138
+[INFO] - Initialized player with Variant 0 and Subtype 10
+[INFO] - Preload sound 0.
+[INFO] - RNG Start Seed: EPLC R6NH (750475276) [Continue, 1]
+[INFO] - Setting PersistentGameData ReadOnly to True
+[INFO] - Adding costume for 573 (Immaculate Heart) which was added before and never removed.
+[INFO] - Adding costume for 148 (Infestation) which was added before and never removed.
+[INFO] - Adding costume for 5 () which was added before and never removed.
+[INFO] - Adding costume for 3 () which was added before and never removed.
+[INFO] - delete 0 generated rooms.
+[INFO] - [RoomConfig] load stage 0: Special Rooms (mode 0)
+[INFO] - allocate 1237 rooms.
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 0)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 0)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 0)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 0)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 0)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 0)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 0)
+[INFO] - [RoomConfig] load stage 8: Necropolis (mode 0)
+[INFO] - allocate 1155 rooms.
+[INFO] - [ModManager] load stage 8: Necropolis (mode 0)
+[INFO] - [ModManager] load stage 8: Necropolis (mode 0)
+[INFO] - [ModManager] load stage 8: Necropolis (mode 0)
+[INFO] - [ModManager] load stage 8: Necropolis (mode 0)
+[INFO] - [ModManager] load stage 8: Necropolis (mode 0)
+[INFO] - [ModManager] load stage 8: Necropolis (mode 0)
+[INFO] - [ModManager] load stage 8: Necropolis (mode 0)
+[INFO] - [RoomConfig] load stage 13: ??? (mode 0)
+[INFO] - allocate 30 rooms.
+[INFO] - [ModManager] load stage 13: ??? (mode 0)
+[INFO] - [ModManager] load stage 13: ??? (mode 0)
+[INFO] - [ModManager] load stage 13: ??? (mode 0)
+[INFO] - [ModManager] load stage 13: ??? (mode 0)
+[INFO] - [ModManager] load stage 13: ??? (mode 0)
+[INFO] - [ModManager] load stage 13: ??? (mode 0)
+[INFO] - [ModManager] load stage 13: ??? (mode 0)
+[INFO] - Room 1.2(Start Room)
+[INFO] - SpawnRNG seed: 1046841380
+[INFO] - Lua mem usage: 793 KB and 723 bytes
+[INFO] - music stopped playing
+[INFO] - Saving PersistentGameData to Steam Cloud: rep_persistentgamedata1.dat.
+[INFO] - Room 1.459(Depths Copy2)
+[INFO] - SpawnRNG seed: 261765269
+[INFO] - Spawn Entity with Type(61), Variant(0), Pos(80.00,160.00)
+[INFO] - Spawn Entity with Type(61), Variant(0), Pos(80.00,200.00)
+[INFO] - Spawn Entity with Type(61), Variant(0), Pos(120.00,240.00)
+[INFO] - Spawn Entity with Type(61), Variant(0), Pos(120.00,280.00)
+[INFO] - Spawn Entity with Type(61), Variant(0), Pos(120.00,320.00)
+[INFO] - Spawn Entity with Type(61), Variant(0), Pos(80.00,360.00)
+[INFO] - Spawn Entity with Type(61), Variant(0), Pos(80.00,400.00)
+[INFO] - Lua mem usage: 794 KB and 451 bytes
+[INFO] - Room 1.10019(Fool Room)
+[INFO] - SpawnRNG seed: 2578937
+[INFO] - Spawn Entity with Type(33), Variant(0), Pos(80.00,160.00)
+[INFO] - Spawn Entity with Type(227), Variant(0), Pos(480.00,160.00)
+[INFO] - Spawn Entity with Type(227), Variant(0), Pos(480.00,240.00)
+[INFO] - Spawn Entity with Type(227), Variant(0), Pos(480.00,320.00)
+[INFO] - Spawn Entity with Type(33), Variant(0), Pos(80.00,400.00)
+[INFO] - Spawn Entity with Type(227), Variant(0), Pos(480.00,400.00)
+[INFO] - Lua mem usage: 794 KB and 411 bytes
+[INFO] - Room 1.659(New Room (copy))
+[INFO] - SpawnRNG seed: 3224845334
+[INFO] - Spawn Entity with Type(90), Variant(0), Pos(320.00,280.00)
+[INFO] - Spawn Entity with Type(86), Variant(0), Pos(440.00,280.00)
+[INFO] - Spawn Entity with Type(86), Variant(0), Pos(840.00,320.00)
+[INFO] - Spawn Entity with Type(90), Variant(0), Pos(840.00,440.00)
+[INFO] - Lua mem usage: 794 KB and 531 bytes
+[INFO] - Queued Path music/necropolis layer.ogg
+[INFO] - Queued Path music/necropolis.ogg
+[INFO] - Room 1.108()
+[INFO] - SpawnRNG seed: 319346824
+[INFO] - Spawn Entity with Type(44), Variant(1), Pos(160.00,240.00)
+[INFO] - Spawn Entity with Type(91), Variant(0), Pos(320.00,280.00)
+[INFO] - Spawn Entity with Type(44), Variant(1), Pos(480.00,320.00)
+[INFO] - Lua mem usage: 794 KB and 267 bytes
+[INFO] - Room 4.46(double t)
+[INFO] - SpawnRNG seed: 2024246959
+[INFO] - Spawn Entity with Type(61), Variant(5), Pos(320.00,240.00)
+[INFO] - Spawn Entity with Type(5), Variant(100), Pos(280.00,280.00)
+[INFO] - Spawn Entity with Type(5), Variant(100), Pos(360.00,280.00)
+[INFO] - Spawn Entity with Type(61), Variant(5), Pos(320.00,320.00)
+[INFO] - Lua mem usage: 794 KB and 411 bytes
+[INFO] - Total entity spawn time: 810 ms
+[INFO] - Total ANM2 loading time: 755 ms
+[INFO] - AnmCache memory usage: 20804656 bytes in 1377 entries.
+[INFO] - music stopped playing
+[INFO] - Adding costume for 135 () which was added before and never removed.
+[INFO] - Total entity spawn time: 811 ms
+[INFO] - Total ANM2 loading time: 761 ms
+[INFO] - AnmCache memory usage: 20859328 bytes in 1378 entries.
+[INFO] - Total entity spawn time: 811 ms
+[INFO] - Total ANM2 loading time: 762 ms
+[INFO] - AnmCache memory usage: 20859328 bytes in 1378 entries.
+[INFO] - Total entity spawn time: 811 ms
+[INFO] - Total ANM2 loading time: 762 ms
+[INFO] - AnmCache memory usage: 20859328 bytes in 1378 entries.
+[INFO] - item taken without exchange
+[INFO] - item queue flush
+[INFO] - Adding collectible 313 (Holy Mantle) to player 0 (The Lost)
+[INFO] - Room 1.108()
+[INFO] - SpawnRNG seed: 319346824
+[INFO] - Spawn Entity with Type(44), Variant(1), Pos(160.00,240.00)
+[INFO] - Spawn Entity with Type(44), Variant(1), Pos(480.00,320.00)
+[INFO] - Lua mem usage: 794 KB and 987 bytes
+[INFO] - Action PillCard Triggered
+[INFO] - Room 5.1063(Mom)
+[INFO] - SpawnRNG seed: 1102375010
+[INFO] - Spawn Entity with Type(45), Variant(0), Pos(320.00,160.00)
+[INFO] - Spawn Entity with Type(45), Variant(0), Pos(80.00,280.00)
+[INFO] - Spawn Entity with Type(45), Variant(0), Pos(320.00,280.00)
+[INFO] - Spawn Entity with Type(45), Variant(0), Pos(560.00,280.00)
+[INFO] - Spawn Entity with Type(45), Variant(0), Pos(320.00,400.00)
+[INFO] - Lua mem usage: 794 KB and 51 bytes
+[INFO] - music stopped playing
+[INFO] - TriggerBossDeath: 4 bosses remaining.
+[INFO] - TriggerBossDeath: 3 bosses remaining.
+[INFO] - TriggerBossDeath: 2 bosses remaining.
+[INFO] - TriggerBossDeath: 1 bosses remaining.
+[INFO] - TriggerBossDeath: 0 bosses remaining.
+[INFO] - deathspawn_boss, color idx 18
+[INFO] - Mom clear time: 25475
+[INFO] - Par time: 36000
+[INFO] - Spawning boss rush door
+[INFO] - item taken without exchange
+[INFO] - Action PillCard Triggered
+[INFO] - item queue flush
+[INFO] - Adding collectible 328 (The Negative) to player 0 (The Lost)
+[INFO] - Room 7.38()
+[INFO] - SpawnRNG seed: 3054186052
+[INFO] - Spawn Entity with Type(33), Variant(0), Pos(240.00,200.00)
+[INFO] - Spawn Entity with Type(17), Variant(0), Pos(320.00,200.00)
+[INFO] - Spawn Entity with Type(33), Variant(0), Pos(400.00,200.00)
+[INFO] - Spawn Entity with Type(5), Variant(50), Pos(320.00,280.00)
+[INFO] - Lua mem usage: 794 KB and 51 bytes
+[INFO] - Room 1.459(Depths Copy2)
+[INFO] - SpawnRNG seed: 261765269
+[INFO] - Lua mem usage: 796 KB and 523 bytes
+[INFO] - Room 1.2(Start Room)
+[INFO] - SpawnRNG seed: 1046841380
+[INFO] - Lua mem usage: 794 KB and 627 bytes
+[INFO] - Removing voided collectible 328 (The Negative) from player 0 (The Lost)
+[INFO] - Room 27.15(Secret Exit (mausoleum))
+[INFO] - SpawnRNG seed: 2592068922
+[INFO] - Spawn Entity with Type(33), Variant(3), Pos(200.00,280.00)
+[INFO] - Spawn Entity with Type(33), Variant(3), Pos(440.00,280.00)
+[INFO] - Lua mem usage: 794 KB and 15 bytes
+[INFO] - music stopped playing
+[INFO] - Level::Init m_Stage 6, m_StageType 4 Seed 849351358
+[INFO] - delete 0 generated rooms.
+[INFO] - [RoomConfig] load stage 31: Mausoleum (mode 0)
+[INFO] - allocate 673 rooms.
+[INFO] - [ModManager] load stage 31: Mausoleum (mode 0)
+[INFO] - [ModManager] load stage 31: Mausoleum (mode 0)
+[INFO] - [ModManager] load stage 31: Mausoleum (mode 0)
+[INFO] - [ModManager] load stage 31: Mausoleum (mode 0)
+[INFO] - [ModManager] load stage 31: Mausoleum (mode 0)
+[INFO] - [ModManager] load stage 31: Mausoleum (mode 0)
+[INFO] - [ModManager] load stage 31: Mausoleum (mode 0)
+[INFO] - generate...
+[INFO] - place_room: shape 7
+[INFO] - place_room: shape 4
+[INFO] - place_room: shape 3
+[INFO] - place_room: shape 5
+[INFO] - 23 rooms in 16 loops
+[INFO] - placing rooms...
+[INFO] - Map Generated in 1 Loops
+[INFO] - CURRENT ROOM INDEX 84 136a1cfc
+[INFO] - Room 1.2(Start Room)
+[INFO] - SpawnRNG seed: 752893680
+[INFO] - Lua mem usage: 794 KB and 15 bytes
+[INFO] - Saving PersistentGameData to Steam Cloud: rep_persistentgamedata1.dat.
+[INFO] - Room 1.116(New Room)
+[INFO] - SpawnRNG seed: 1869327018
+[INFO] - Spawn Entity with Type(212), Variant(2), Pos(160.00,200.00)
+[INFO] - Spawn Entity with Type(833), Variant(0), Pos(200.00,240.00)
+[INFO] - Spawn Entity with Type(833), Variant(0), Pos(320.00,280.00)
+[INFO] - Spawn Entity with Type(833), Variant(0), Pos(440.00,320.00)
+[INFO] - Spawn Entity with Type(212), Variant(2), Pos(480.00,360.00)
+[INFO] - Lua mem usage: 794 KB and 651 bytes
+[INFO] - Room 1.105(New Room)
+[INFO] - SpawnRNG seed: 2196774180
+[INFO] - Spawn Entity with Type(227), Variant(0), Pos(520.00,200.00)
+[INFO] - Spawn Entity with Type(227), Variant(0), Pos(120.00,360.00)
+[INFO] - Lua mem usage: 797 KB and 531 bytes
+[INFO] - Room 4.14(double t)
+[INFO] - SpawnRNG seed: 3765559637
+[INFO] - Spawn Entity with Type(33), Variant(2), Pos(80.00,160.00)
+[INFO] - Spawn Entity with Type(33), Variant(2), Pos(560.00,160.00)
+[INFO] - Spawn Entity with Type(5), Variant(100), Pos(240.00,280.00)
+[INFO] - Spawn Entity with Type(5), Variant(100), Pos(320.00,280.00)
+[INFO] - Spawn Entity with Type(5), Variant(100), Pos(400.00,280.00)
+[INFO] - Spawn Entity with Type(33), Variant(2), Pos(80.00,400.00)
+[INFO] - Spawn Entity with Type(33), Variant(2), Pos(560.00,400.00)
+[INFO] - Lua mem usage: 794 KB and 531 bytes
+[INFO] - music stopped playing
+[INFO] - Total entity spawn time: 1661 ms
+[INFO] - Total ANM2 loading time: 1214 ms
+[INFO] - AnmCache memory usage: 21235876 bytes in 1387 entries.
+[INFO] - Total entity spawn time: 1661 ms
+[INFO] - Total ANM2 loading time: 1214 ms
+[INFO] - AnmCache memory usage: 21235876 bytes in 1387 entries.
+[INFO] - Total entity spawn time: 1661 ms
+[INFO] - Total ANM2 loading time: 1215 ms
+[INFO] - AnmCache memory usage: 21235876 bytes in 1387 entries.
+[INFO] - Total entity spawn time: 1661 ms
+[INFO] - Total ANM2 loading time: 1215 ms
+[INFO] - AnmCache memory usage: 21235876 bytes in 1387 entries.
+[INFO] - Total entity spawn time: 1664 ms
+[INFO] - Total ANM2 loading time: 1217 ms
+[INFO] - AnmCache memory usage: 21235876 bytes in 1387 entries.
+[INFO] - Total entity spawn time: 1664 ms
+[INFO] - Total ANM2 loading time: 1217 ms
+[INFO] - AnmCache memory usage: 21235876 bytes in 1387 entries.
+[INFO] - Total entity spawn time: 1664 ms
+[INFO] - Total ANM2 loading time: 1217 ms
+[INFO] - AnmCache memory usage: 21235876 bytes in 1387 entries.
+[INFO] - Total entity spawn time: 1664 ms
+[INFO] - Total ANM2 loading time: 1219 ms
+[INFO] - AnmCache memory usage: 21235876 bytes in 1387 entries.
+[INFO] - item taken without exchange
+[INFO] - item queue flush
+[INFO] - Adding collectible 503 (Little Horn) to player 0 (The Lost)
+[INFO] - Room 1.105(New Room)
+[INFO] - SpawnRNG seed: 2196774180
+[INFO] - Lua mem usage: 794 KB and 627 bytes
+[INFO] - Room 1.116(New Room)
+[INFO] - SpawnRNG seed: 1869327018
+[INFO] - Lua mem usage: 794 KB and 91 bytes
+[INFO] - Room 1.2(Start Room)
+[INFO] - SpawnRNG seed: 752893680
+[INFO] - Lua mem usage: 796 KB and 3 bytes
+[INFO] - Room 11.17()
+[INFO] - SpawnRNG seed: 647847208
+[INFO] - Spawn Entity with Type(5), Variant(100), Pos(320.00,280.00)
+[INFO] - Lua mem usage: 794 KB and 15 bytes
+[INFO] - Room 1.2(Start Room)
+[INFO] - SpawnRNG seed: 752893680
+[INFO] - Lua mem usage: 794 KB and 267 bytes
+[INFO] - Room 1.291(New Room)
+[INFO] - SpawnRNG seed: 2604317525
+[INFO] - Spawn Entity with Type(306), Variant(1), Pos(280.00,160.00)
+[INFO] - Spawn Entity with Type(306), Variant(1), Pos(360.00,400.00)
+[INFO] - Lua mem usage: 794 KB and 451 bytes
+[INFO] - Room 1.339(New Room)
+[INFO] - SpawnRNG seed: 3909480088
+[INFO] - Spawn Entity with Type(805), Variant(0), Pos(120.00,160.00)
+[INFO] - Spawn Entity with Type(33), Variant(2), Pos(560.00,160.00)
+[INFO] - Spawn Entity with Type(841), Variant(1), Pos(320.00,280.00)
+[INFO] - Spawn Entity with Type(33), Variant(2), Pos(80.00,400.00)
+[INFO] - Spawn Entity with Type(805), Variant(0), Pos(520.00,400.00)
+[INFO] - Lua mem usage: 794 KB and 267 bytes
+[INFO] - [warn] no animation named WalkVert
+[INFO] - Room 10.6( (copy))
+[INFO] - SpawnRNG seed: 2467968919
+[INFO] - Spawn Entity with Type(85), Variant(0), Pos(320.00,240.00)
+[INFO] - Spawn Entity with Type(85), Variant(0), Pos(240.00,280.00)
+[INFO] - Spawn Entity with Type(94), Variant(0), Pos(320.00,280.00)
+[INFO] - Spawn Entity with Type(85), Variant(0), Pos(400.00,280.00)
+[INFO] - Spawn Entity with Type(85), Variant(0), Pos(320.00,320.00)
+[INFO] - Lua mem usage: 796 KB and 787 bytes
+[INFO] - Room 1.339(New Room)
+[INFO] - SpawnRNG seed: 3909480088
+[INFO] - Lua mem usage: 794 KB and 451 bytes
+[INFO] - Action PillCard Triggered
+[INFO] - Room 1.95(New Room)
+[INFO] - SpawnRNG seed: 3816595051
+[INFO] - Spawn Entity with Type(877), Variant(0), Pos(80.00,160.00)
+[INFO] - Spawn Entity with Type(41), Variant(2), Pos(280.00,280.00)
+[INFO] - Spawn Entity with Type(840), Variant(0), Pos(320.00,280.00)
+[INFO] - Spawn Entity with Type(41), Variant(2), Pos(360.00,280.00)
+[INFO] - Spawn Entity with Type(877), Variant(0), Pos(560.00,400.00)
+[INFO] - Lua mem usage: 794 KB and 555 bytes
+[INFO] - Room 1.353(New Room)
+[INFO] - SpawnRNG seed: 2014171116
+[INFO] - Spawn Entity with Type(883), Variant(0), Pos(120.00,200.00)
+[INFO] - Spawn Entity with Type(885), Variant(0), Pos(320.00,280.00)
+[INFO] - Spawn Entity with Type(883), Variant(0), Pos(520.00,360.00)
+[INFO] - Lua mem usage: 795 KB and 483 bytes
+[INFO] - Room 1.64(New Room)
+[INFO] - SpawnRNG seed: 3175300601
+[INFO] - Spawn Entity with Type(61), Variant(2), Pos(80.00,160.00)
+[INFO] - Spawn Entity with Type(61), Variant(2), Pos(560.00,160.00)
+[INFO] - Spawn Entity with Type(833), Variant(0), Pos(320.00,240.00)
+[INFO] - Spawn Entity with Type(833), Variant(0), Pos(280.00,280.00)
+[INFO] - Spawn Entity with Type(833), Variant(0), Pos(360.00,280.00)
+[INFO] - Lua mem usage: 794 KB and 843 bytes
+[INFO] - Room 1.168(New Room)
+[INFO] - SpawnRNG seed: 1389093952
+[INFO] - Spawn Entity with Type(836), Variant(0), Pos(80.00,160.00)
+[INFO] - Spawn Entity with Type(42), Variant(0), Pos(320.00,280.00)
+[INFO] - Spawn Entity with Type(836), Variant(0), Pos(560.00,400.00)
+[INFO] - Lua mem usage: 794 KB and 411 bytes
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 99!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 101!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 103!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 77!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 79!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 81!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 83!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 107!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 109!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 111!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 105!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 107!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 3!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 5!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 7!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 5!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 7!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 9!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 11!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 13!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 15!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 17!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 19!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 21!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 23!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 25!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 27!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 29!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 31!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 33!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 35!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 37!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 39!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 41!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 43!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 45!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 47!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 49!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 51!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 53!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 55!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 57!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 59!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 61!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 63!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 108!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 66!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 68!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 70!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 72!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 74!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 76!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 78!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 80!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 82!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 88!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 84!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 81!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 83!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 85!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 31!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 33!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 74!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 64!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 66!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 42!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 44!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 46!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 48!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 50!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 52!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 54!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 56!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 75!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 77!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 79!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 81!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 83!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 81!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 83!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 85!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 121!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 123!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 56!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 56!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 58!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 68!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 70!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 82!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 84!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 86!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 72!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 48!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 50!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 52!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 54!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 56!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 9!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 109!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 2!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 71!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 73!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 299!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 301!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 303!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 305!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 307!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 309!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 239!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 241!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 243!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 245!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 247!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 71!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 73!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 249!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 251!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 253!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 255!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 257!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 259!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 261!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 263!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 265!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 249!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 251!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 253!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 255!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 257!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 259!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 261!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 263!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 265!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 267!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 269!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 271!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 273!
+[INFO] - Room 6.2144(Super Greed (copy))
+[INFO] - SpawnRNG seed: 1480805962
+[INFO] - Spawn Entity with Type(5), Variant(20), Pos(400.00,200.00)
+[INFO] - Spawn Entity with Type(5), Variant(20), Pos(320.00,240.00)
+[INFO] - Spawn Entity with Type(5), Variant(20), Pos(280.00,280.00)
+[INFO] - Spawn Entity with Type(50), Variant(1), Pos(320.00,280.00)
+[INFO] - Spawn Entity with Type(5), Variant(20), Pos(360.00,280.00)
+[INFO] - Spawn Entity with Type(5), Variant(20), Pos(320.00,320.00)
+[INFO] - Spawn Entity with Type(5), Variant(20), Pos(240.00,360.00)
+[INFO] - Lua mem usage: 794 KB and 123 bytes
+[INFO] - Total entity spawn time: 3345 ms
+[INFO] - Total ANM2 loading time: 2039 ms
+[INFO] - AnmCache memory usage: 21468168 bytes in 1398 entries.
+[INFO] - TriggerBossDeath: 0 bosses remaining.
+[INFO] - Room 1.168(New Room)
+[INFO] - SpawnRNG seed: 1389093952
+[INFO] - Spawn Entity with Type(42), Variant(0), Pos(320.00,280.00)
+[INFO] - Lua mem usage: 794 KB and 931 bytes
+[INFO] - Room 1.86(New Room)
+[INFO] - SpawnRNG seed: 4181509540
+[INFO] - Spawn Entity with Type(33), Variant(3), Pos(280.00,320.00)
+[INFO] - Spawn Entity with Type(33), Variant(3), Pos(360.00,320.00)
+[INFO] - Spawn Entity with Type(33), Variant(2), Pos(280.00,360.00)
+[INFO] - Spawn Entity with Type(33), Variant(3), Pos(320.00,360.00)
+[INFO] - Spawn Entity with Type(33), Variant(2), Pos(360.00,360.00)
+[INFO] - Lua mem usage: 794 KB and 123 bytes
+[INFO] - Room 1.505(New Room (Tall))
+[INFO] - SpawnRNG seed: 3309737876
+[INFO] - Spawn Entity with Type(33), Variant(2), Pos(80.00,160.00)
+[INFO] - Spawn Entity with Type(33), Variant(2), Pos(560.00,160.00)
+[INFO] - Spawn Entity with Type(805), Variant(0), Pos(320.00,320.00)
+[INFO] - Spawn Entity with Type(883), Variant(0), Pos(280.00,400.00)
+[INFO] - Spawn Entity with Type(883), Variant(0), Pos(360.00,400.00)
+[INFO] - Spawn Entity with Type(883), Variant(0), Pos(320.00,440.00)
+[INFO] - Spawn Entity with Type(805), Variant(0), Pos(320.00,520.00)
+[INFO] - Spawn Entity with Type(33), Variant(2), Pos(80.00,680.00)
+[INFO] - Spawn Entity with Type(33), Variant(2), Pos(560.00,680.00)
+[INFO] - Lua mem usage: 794 KB and 611 bytes
+[INFO] - item taken without exchange
+[INFO] - item queue flush
+[INFO] - Adding collectible 26 (Rotten Meat) to player 0 (The Lost)
+[INFO] - item taken without exchange
+[INFO] - item queue flush
+[INFO] - Adding collectible 318 (Gemini) to player 0 (The Lost)
+[INFO] - Room 1.30(New Room)
+[INFO] - SpawnRNG seed: 2610234214
+[INFO] - Spawn Entity with Type(840), Variant(0), Pos(80.00,160.00)
+[INFO] - Spawn Entity with Type(840), Variant(0), Pos(560.00,160.00)
+[INFO] - Spawn Entity with Type(840), Variant(0), Pos(320.00,280.00)
+[INFO] - Spawn Entity with Type(840), Variant(0), Pos(80.00,400.00)
+[INFO] - Spawn Entity with Type(840), Variant(0), Pos(560.00,400.00)
+[INFO] - Lua mem usage: 794 KB and 675 bytes
+[INFO] - Room 1.457(New Room)
+[INFO] - SpawnRNG seed: 3409776099
+[INFO] - Spawn Entity with Type(805), Variant(0), Pos(120.00,200.00)
+[INFO] - Spawn Entity with Type(836), Variant(0), Pos(320.00,280.00)
+[INFO] - Spawn Entity with Type(805), Variant(0), Pos(520.00,360.00)
+[INFO] - Lua mem usage: 795 KB and 67 bytes
+[INFO] - Room 5.1(Mom)
+[INFO] - SpawnRNG seed: 1571977668
+[INFO] - Spawn Entity with Type(5), Variant(100), Pos(320.00,280.00)
+[INFO] - Lua mem usage: 795 KB and 51 bytes
+[INFO] - item taken without exchange
+[INFO] - Total entity spawn time: 4075 ms
+[INFO] - Total ANM2 loading time: 2359 ms
+[INFO] - AnmCache memory usage: 21480376 bytes in 1399 entries.
+[INFO] - item queue flush
+[INFO] - Adding collectible 668 (Dad's Note) to player 0 (The Lost)
+[INFO] - Queued Path music/the calm.ogg
+[INFO] - Level::Init m_Stage 6, m_StageType 4 Seed 849351358
+[INFO] - delete 0 generated rooms.
+[INFO] - [RoomConfig] load stage 36: ? (mode 0)
+[INFO] - allocate 478 rooms.
+[INFO] - [ModManager] load stage 36: ? (mode 0)
+[INFO] - [ModManager] load stage 36: ? (mode 0)
+[INFO] - [ModManager] load stage 36: ? (mode 0)
+[INFO] - [ModManager] load stage 36: ? (mode 0)
+[INFO] - [ModManager] load stage 36: ? (mode 0)
+[INFO] - [ModManager] load stage 36: ? (mode 0)
+[INFO] - [ModManager] load stage 36: ? (mode 0)
+[INFO] - generate...
+[INFO] - place_room: shape 4
+[INFO] - place_room: shape 4
+[INFO] - 7 rooms in 5 loops
+[INFO] - placing rooms...
+[INFO] - Map Generated in 1 Loops
+[INFO] - CURRENT ROOM INDEX 81 2470170c
+[INFO] - Room 5.1(Mom)
+[INFO] - SpawnRNG seed: 3544857696
+[INFO] - Lua mem usage: 794 KB and 987 bytes
+[INFO] - Saving PersistentGameData to Steam Cloud: rep_persistentgamedata1.dat.
+[INFO] - Room 1.266(New Room)
+[INFO] - SpawnRNG seed: 2809082122
+[INFO] - Spawn Entity with Type(833), Variant(0), Pos(120.00,160.00)
+[INFO] - Spawn Entity with Type(833), Variant(0), Pos(80.00,200.00)
+[INFO] - Spawn Entity with Type(833), Variant(0), Pos(320.00,280.00)
+[INFO] - Spawn Entity with Type(833), Variant(0), Pos(560.00,360.00)
+[INFO] - Spawn Entity with Type(833), Variant(0), Pos(520.00,400.00)
+[INFO] - Lua mem usage: 794 KB and 131 bytes
+[INFO] - Room 1.285(New Room)
+[INFO] - SpawnRNG seed: 1480805962
+[INFO] - Spawn Entity with Type(834), Variant(1), Pos(80.00,160.00)
+[INFO] - Spawn Entity with Type(805), Variant(0), Pos(320.00,280.00)
+[INFO] - Spawn Entity with Type(834), Variant(1), Pos(560.00,400.00)
+[INFO] - Lua mem usage: 794 KB and 315 bytes
+[INFO] - Room 1.300(New Room (Tall))
+[INFO] - SpawnRNG seed: 384571489
+[INFO] - Spawn Entity with Type(840), Variant(0), Pos(80.00,160.00)
+[INFO] - Spawn Entity with Type(840), Variant(0), Pos(560.00,160.00)
+[INFO] - Spawn Entity with Type(41), Variant(3), Pos(320.00,360.00)
+[INFO] - Spawn Entity with Type(41), Variant(3), Pos(320.00,400.00)
+[INFO] - Spawn Entity with Type(41), Variant(3), Pos(320.00,440.00)
+[INFO] - Spawn Entity with Type(41), Variant(3), Pos(320.00,480.00)
+[INFO] - Spawn Entity with Type(840), Variant(0), Pos(80.00,680.00)
+[INFO] - Spawn Entity with Type(840), Variant(0), Pos(560.00,680.00)
+[INFO] - Lua mem usage: 794 KB and 347 bytes
+[INFO] - Room 1.299(New Room (Tall))
+[INFO] - SpawnRNG seed: 2366610005
+[INFO] - Spawn Entity with Type(877), Variant(0), Pos(200.00,360.00)
+[INFO] - Spawn Entity with Type(834), Variant(1), Pos(320.00,400.00)
+[INFO] - Spawn Entity with Type(834), Variant(1), Pos(280.00,440.00)
+[INFO] - Spawn Entity with Type(834), Variant(1), Pos(360.00,440.00)
+[INFO] - Spawn Entity with Type(834), Variant(1), Pos(320.00,480.00)
+[INFO] - Spawn Entity with Type(877), Variant(0), Pos(440.00,480.00)
+[INFO] - Lua mem usage: 794 KB and 451 bytes
+[INFO] - Room 1.10000(Exit)
+[INFO] - SpawnRNG seed: 2860851252
+[INFO] - Spawn Entity with Type(1000), Variant(39), Pos(320.00,280.00)
+[INFO] - Lua mem usage: 794 KB and 451 bytes
+[INFO] - Level::Init m_Stage 6, m_StageType 0 Seed 1823919068
+[INFO] - delete 0 generated rooms.
+[INFO] - [RoomConfig] load stage 7: Depths (mode 0)
+[INFO] - allocate 1134 rooms.
+[INFO] - [ModManager] load stage 7: Depths (mode 0)
+[INFO] - [ModManager] load stage 7: Depths (mode 0)
+[INFO] - [ModManager] load stage 7: Depths (mode 0)
+[INFO] - [ModManager] load stage 7: Depths (mode 0)
+[INFO] - [ModManager] load stage 7: Depths (mode 0)
+[INFO] - [ModManager] load stage 7: Depths (mode 0)
+[INFO] - [ModManager] load stage 7: Depths (mode 0)
+[INFO] - generate...
+[INFO] - place_room: shape 3
+[INFO] - 8 rooms in 5 loops
+[INFO] - placing rooms...
+[INFO] - Map Generated in 1 Loops
+[INFO] - CURRENT ROOM INDEX 57 136a5b8c
+[INFO] - Room 5.1063(Mom)
+[INFO] - SpawnRNG seed: 676071501
+[INFO] - Lua mem usage: 794 KB and 15 bytes
+[INFO] - Saving PersistentGameData to Steam Cloud: rep_persistentgamedata1.dat.
+[INFO] - Room 1.52(New Room)
+[INFO] - SpawnRNG seed: 3020980948
+[INFO] - Spawn Entity with Type(301), Variant(0), Pos(240.00,280.00)
+[INFO] - Spawn Entity with Type(301), Variant(0), Pos(280.00,280.00)
+[INFO] - Spawn Entity with Type(301), Variant(0), Pos(320.00,280.00)
+[INFO] - Spawn Entity with Type(301), Variant(0), Pos(360.00,280.00)
+[INFO] - Spawn Entity with Type(301), Variant(0), Pos(400.00,280.00)
+[INFO] - Lua mem usage: 794 KB and 323 bytes
+[INFO] - Room 1.19(New Room)
+[INFO] - SpawnRNG seed: 3418983628
+[INFO] - Spawn Entity with Type(88), Variant(0), Pos(240.00,280.00)
+[INFO] - Spawn Entity with Type(88), Variant(0), Pos(280.00,280.00)
+[INFO] - Spawn Entity with Type(88), Variant(0), Pos(320.00,280.00)
+[INFO] - Spawn Entity with Type(88), Variant(0), Pos(360.00,280.00)
+[INFO] - Spawn Entity with Type(88), Variant(0), Pos(400.00,280.00)
+[INFO] - Lua mem usage: 794 KB and 123 bytes
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 22!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 30!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 32!
+[INFO] - Room 1.10000(Exit)
+[INFO] - SpawnRNG seed: 3650189619
+[INFO] - Spawn Entity with Type(1000), Variant(39), Pos(320.00,280.00)
+[INFO] - Lua mem usage: 794 KB and 571 bytes
+[INFO] - Level::Init m_Stage 5, m_StageType 0 Seed 2292357364
+[INFO] - delete 0 generated rooms.
+[INFO] - generate...
+[INFO] - 9 rooms in 5 loops
+[INFO] - placing rooms...
+[INFO] - Map Generated in 1 Loops
+[INFO] - CURRENT ROOM INDEX 43 136a8a4c
+[INFO] - Room 5.3350(Mask of Infamy)
+[INFO] - SpawnRNG seed: 4080938496
+[INFO] - Lua mem usage: 794 KB and 15 bytes
+[INFO] - Saving PersistentGameData to Steam Cloud: rep_persistentgamedata1.dat.
+[INFO] - Room 1.46(New Room)
+[INFO] - SpawnRNG seed: 1623496402
+[INFO] - Spawn Entity with Type(33), Variant(2), Pos(80.00,160.00)
+[INFO] - Spawn Entity with Type(881), Variant(0), Pos(440.00,240.00)
+[INFO] - Spawn Entity with Type(27), Variant(1), Pos(520.00,240.00)
+[INFO] - Spawn Entity with Type(881), Variant(0), Pos(400.00,280.00)
+[INFO] - Spawn Entity with Type(881), Variant(0), Pos(440.00,320.00)
+[INFO] - Spawn Entity with Type(27), Variant(0), Pos(520.00,320.00)
+[INFO] - Spawn Entity with Type(33), Variant(2), Pos(80.00,400.00)
+[INFO] - Lua mem usage: 794 KB and 531 bytes
+[INFO] - Room 1.50(New Room)
+[INFO] - SpawnRNG seed: 312322197
+[INFO] - Spawn Entity with Type(44), Variant(1), Pos(280.00,280.00)
+[INFO] - Spawn Entity with Type(44), Variant(1), Pos(360.00,280.00)
+[INFO] - Lua mem usage: 794 KB and 531 bytes
+[INFO] - Room 1.27(New Room)
+[INFO] - SpawnRNG seed: 3210285450
+[INFO] - Spawn Entity with Type(5), Variant(0), Pos(280.00,280.00)
+[INFO] - Spawn Entity with Type(5), Variant(0), Pos(320.00,280.00)
+[INFO] - Spawn Entity with Type(5), Variant(0), Pos(360.00,280.00)
+[INFO] - Lua mem usage: 795 KB and 667 bytes
+[INFO] - Room 1.41(New Room)
+[INFO] - SpawnRNG seed: 3164549314
+[INFO] - Spawn Entity with Type(26), Variant(2), Pos(560.00,160.00)
+[INFO] - Spawn Entity with Type(33), Variant(0), Pos(320.00,280.00)
+[INFO] - Spawn Entity with Type(26), Variant(2), Pos(80.00,400.00)
+[INFO] - Lua mem usage: 795 KB and 795 bytes
+[INFO] - Room 1.27(New Room)
+[INFO] - SpawnRNG seed: 3210285450
+[INFO] - Lua mem usage: 794 KB and 531 bytes
+[INFO] - Room 1.30(New Room)
+[INFO] - SpawnRNG seed: 692317435
+[INFO] - Spawn Entity with Type(33), Variant(0), Pos(80.00,160.00)
+[INFO] - Spawn Entity with Type(33), Variant(0), Pos(560.00,160.00)
+[INFO] - Spawn Entity with Type(881), Variant(0), Pos(240.00,240.00)
+[INFO] - Spawn Entity with Type(22), Variant(0), Pos(320.00,280.00)
+[INFO] - Spawn Entity with Type(881), Variant(0), Pos(400.00,280.00)
+[INFO] - Spawn Entity with Type(881), Variant(0), Pos(240.00,320.00)
+[INFO] - Spawn Entity with Type(33), Variant(0), Pos(80.00,400.00)
+[INFO] - Spawn Entity with Type(33), Variant(0), Pos(560.00,400.00)
+[INFO] - Lua mem usage: 794 KB and 843 bytes
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 18!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 20!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 22!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 24!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 26!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 28!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 30!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 32!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 34!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 36!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 38!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 40!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 77!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 79!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 81!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 83!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 123!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 125!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 127!
+[INFO] - Room 1.14(New Room)
+[INFO] - SpawnRNG seed: 4224066168
+[INFO] - Spawn Entity with Type(41), Variant(0), Pos(320.00,240.00)
+[INFO] - Spawn Entity with Type(41), Variant(0), Pos(280.00,280.00)
+[INFO] - Spawn Entity with Type(41), Variant(0), Pos(360.00,280.00)
+[INFO] - Spawn Entity with Type(41), Variant(0), Pos(320.00,320.00)
+[INFO] - Lua mem usage: 794 KB and 987 bytes
+[INFO] - Room 1.30(New Room)
+[INFO] - SpawnRNG seed: 692317435
+[INFO] - Lua mem usage: 794 KB and 451 bytes
+[INFO] - Room 1.10000(Exit)
+[INFO] - SpawnRNG seed: 1579471548
+[INFO] - Spawn Entity with Type(1000), Variant(39), Pos(320.00,280.00)
+[INFO] - Lua mem usage: 798 KB and 883 bytes
+[INFO] - Level::Init m_Stage 4, m_StageType 0 Seed 3381692800
+[INFO] - delete 0 generated rooms.
+[INFO] - [RoomConfig] load stage 4: Caves (mode 0)
+[INFO] - allocate 1055 rooms.
+[INFO] - [ModManager] load stage 4: Caves (mode 0)
+[INFO] - [ModManager] load stage 4: Caves (mode 0)
+[INFO] - [ModManager] load stage 4: Caves (mode 0)
+[INFO] - [ModManager] load stage 4: Caves (mode 0)
+[INFO] - [ModManager] load stage 4: Caves (mode 0)
+[INFO] - [ModManager] load stage 4: Caves (mode 0)
+[INFO] - [ModManager] load stage 4: Caves (mode 0)
+[INFO] - generate...
+[INFO] - place_room: shape 8
+[INFO] - place_room: shape 8
+[INFO] - 10 rooms in 6 loops
+[INFO] - placing rooms...
+[INFO] - Map Generated in 1 Loops
+[INFO] - CURRENT ROOM INDEX 60 136a9e94
+[INFO] - Room 5.3502(The Fallen (copy))
+[INFO] - SpawnRNG seed: 4270331487
+[INFO] - Lua mem usage: 794 KB and 15 bytes
+[INFO] - Saving PersistentGameData to Steam Cloud: rep_persistentgamedata1.dat.
+[INFO] - Room 1.101(New Room)
+[INFO] - SpawnRNG seed: 1747700593
+[INFO] - Spawn Entity with Type(30), Variant(0), Pos(200.00,160.00)
+[INFO] - Spawn Entity with Type(30), Variant(0), Pos(440.00,160.00)
+[INFO] - Spawn Entity with Type(31), Variant(1), Pos(320.00,280.00)
+[INFO] - Spawn Entity with Type(30), Variant(0), Pos(200.00,400.00)
+[INFO] - Spawn Entity with Type(30), Variant(0), Pos(440.00,400.00)
+[INFO] - Lua mem usage: 794 KB and 267 bytes
+[INFO] - Room 1.92(New Room)
+[INFO] - SpawnRNG seed: 805777357
+[INFO] - Spawn Entity with Type(61), Variant(0), Pos(80.00,160.00)
+[INFO] - Spawn Entity with Type(61), Variant(0), Pos(560.00,160.00)
+[INFO] - Spawn Entity with Type(61), Variant(7), Pos(320.00,280.00)
+[INFO] - Spawn Entity with Type(61), Variant(0), Pos(80.00,400.00)
+[INFO] - Spawn Entity with Type(61), Variant(0), Pos(560.00,400.00)
+[INFO] - Lua mem usage: 794 KB and 211 bytes
+[INFO] - Room 1.126(New Room)
+[INFO] - SpawnRNG seed: 3264138123
+[INFO] - Spawn Entity with Type(33), Variant(0), Pos(80.00,160.00)
+[INFO] - Spawn Entity with Type(33), Variant(0), Pos(560.00,160.00)
+[INFO] - Spawn Entity with Type(242), Variant(0), Pos(280.00,200.00)
+[INFO] - Spawn Entity with Type(242), Variant(0), Pos(360.00,200.00)
+[INFO] - Spawn Entity with Type(242), Variant(0), Pos(280.00,360.00)
+[INFO] - Spawn Entity with Type(242), Variant(0), Pos(360.00,360.00)
+[INFO] - Spawn Entity with Type(33), Variant(0), Pos(80.00,400.00)
+[INFO] - Spawn Entity with Type(33), Variant(0), Pos(560.00,400.00)
+[INFO] - Lua mem usage: 795 KB and 179 bytes
+[INFO] - Room 1.10000(Exit)
+[INFO] - SpawnRNG seed: 1925495301
+[INFO] - Spawn Entity with Type(1000), Variant(39), Pos(320.00,280.00)
+[INFO] - Lua mem usage: 794 KB and 371 bytes
+[INFO] - Level::Init m_Stage 3, m_StageType 0 Seed 1007866774
+[INFO] - delete 0 generated rooms.
+[INFO] - generate...
+[INFO] - 11 rooms in 6 loops
+[INFO] - placing rooms...
+[INFO] - Map Generated in 1 Loops
+[INFO] - CURRENT ROOM INDEX 75 136a610c
+[INFO] - Room 5.1087(Haunt 2 (copy))
+[INFO] - SpawnRNG seed: 3639471811
+[INFO] - Lua mem usage: 794 KB and 15 bytes
+[INFO] - Saving PersistentGameData to Steam Cloud: rep_persistentgamedata1.dat.
+[INFO] - Room 1.112(New Room)
+[INFO] - SpawnRNG seed: 3844083921
+[INFO] - Spawn Entity with Type(24), Variant(0), Pos(80.00,160.00)
+[INFO] - Spawn Entity with Type(24), Variant(0), Pos(560.00,160.00)
+[INFO] - Spawn Entity with Type(42), Variant(2), Pos(320.00,280.00)
+[INFO] - Spawn Entity with Type(24), Variant(0), Pos(80.00,400.00)
+[INFO] - Spawn Entity with Type(24), Variant(0), Pos(560.00,400.00)
+[INFO] - Lua mem usage: 795 KB and 483 bytes
+[INFO] - Room 5.1087(Haunt 2 (copy))
+[INFO] - SpawnRNG seed: 3639471811
+[INFO] - Lua mem usage: 794 KB and 491 bytes
+[INFO] - Room 1.112(New Room)
+[INFO] - SpawnRNG seed: 3844083921
+[INFO] - Lua mem usage: 794 KB and 915 bytes
+[INFO] - Action PillCard Triggered
+[INFO] - Room 1.145()
+[INFO] - SpawnRNG seed: 3331153958
+[INFO] - Spawn Entity with Type(26), Variant(0), Pos(80.00,160.00)
+[INFO] - Spawn Entity with Type(18), Variant(0), Pos(520.00,160.00)
+[INFO] - Spawn Entity with Type(292), Variant(0), Pos(560.00,160.00)
+[INFO] - Spawn Entity with Type(22), Variant(0), Pos(320.00,280.00)
+[INFO] - Spawn Entity with Type(18), Variant(0), Pos(120.00,400.00)
+[INFO] - Spawn Entity with Type(26), Variant(0), Pos(560.00,400.00)
+[INFO] - Lua mem usage: 795 KB and 783 bytes
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 36!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 38!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 40!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 42!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 34!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 36!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 38!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 40!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 42!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 44!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 16!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 63!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 65!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 18!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 20!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 22!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 24!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 26!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 28!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 16!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 18!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 20!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 22!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 24!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 26!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 3!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 5!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 7!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 4!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 6!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 4!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 6!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 8!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 10!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 89!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 91!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 93!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 95!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 89!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 91!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 93!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 95!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 97!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 89!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 91!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 93!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 95!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 97!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 99!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 89!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 91!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 93!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 66!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 68!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 66!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 126!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 126!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 0!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 2!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 4!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 126!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 33!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 121!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 123!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 32!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 34!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 36!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 38!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 40!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 42!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 44!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 102!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 102!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 104!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 106!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 108!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 102!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 104!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 106!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 108!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 110!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 112!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 102!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 104!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 106!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 108!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 110!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 112!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 236!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 238!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 240!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 242!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 244!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 246!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 248!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 102!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 104!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 106!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 102!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 104!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 106!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 108!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 110!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 112!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 114!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 250!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 252!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 254!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 256!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 258!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 260!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 262!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 264!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 102!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 104!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 106!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 108!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 110!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 102!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 104!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 106!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 108!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 110!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 112!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 266!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 268!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 270!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 272!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 274!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 276!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 278!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 280!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 102!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 104!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 106!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 102!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 104!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 106!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 108!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 110!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 112!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 114!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 282!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 284!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 286!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 288!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 290!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 292!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 294!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 296!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 102!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 104!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 106!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 102!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 104!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 106!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 108!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 110!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 112!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 298!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 300!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 302!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 304!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 306!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 308!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 310!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 312!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 7!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 9!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 11!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 13!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 314!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 316!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 318!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 320!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 322!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 324!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 326!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 328!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 7!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 9!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 11!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 13!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 330!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 332!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 334!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 336!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 338!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 340!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 342!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 344!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 346!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 348!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 350!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 352!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 354!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 356!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 358!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 360!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 339!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 341!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 343!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 345!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 347!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 349!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 351!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 17!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 19!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 353!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 355!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 357!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 359!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 361!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 363!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 365!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 367!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 18!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 20!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 22!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 24!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 26!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 28!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 30!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 369!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 371!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 373!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 375!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 377!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 379!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 381!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 383!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 17!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 19!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 385!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 387!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 389!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 391!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 393!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 395!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 397!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 6!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 399!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 92!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 94!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 96!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 98!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 401!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 403!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 405!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 407!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 409!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 411!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 413!
+[INFO] - [warn] entity pool array class Entity_Tear [512] is full, overwriting at index 415!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 92!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 94!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 96!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 98!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 100!
+[INFO] - Room 1.112(New Room)
+[INFO] - SpawnRNG seed: 3844083921
+[INFO] - Lua mem usage: 794 KB and 195 bytes
+[INFO] - Room 1.145()
+[INFO] - SpawnRNG seed: 3331153958
+[INFO] - Lua mem usage: 794 KB and 15 bytes
+[INFO] - item taken without exchange
+[INFO] - item queue flush
+[INFO] - Adding collectible 156 (Habit) to player 0 (The Lost)
+[INFO] - Room 1.112(New Room)
+[INFO] - SpawnRNG seed: 3844083921
+[INFO] - Lua mem usage: 794 KB and 843 bytes
+[INFO] - Room 5.1087(Haunt 2 (copy))
+[INFO] - SpawnRNG seed: 3639471811
+[INFO] - Lua mem usage: 795 KB and 35 bytes
+[INFO] - Room 1.112(New Room)
+[INFO] - SpawnRNG seed: 3844083921
+[INFO] - Lua mem usage: 794 KB and 123 bytes
+[INFO] - Room 1.111(New Room)
+[INFO] - SpawnRNG seed: 741540290
+[INFO] - Spawn Entity with Type(88), Variant(1), Pos(120.00,160.00)
+[INFO] - Spawn Entity with Type(88), Variant(1), Pos(520.00,160.00)
+[INFO] - Spawn Entity with Type(24), Variant(0), Pos(280.00,280.00)
+[INFO] - Spawn Entity with Type(24), Variant(0), Pos(320.00,280.00)
+[INFO] - Spawn Entity with Type(24), Variant(0), Pos(360.00,280.00)
+[INFO] - Spawn Entity with Type(88), Variant(1), Pos(120.00,400.00)
+[INFO] - Spawn Entity with Type(88), Variant(1), Pos(520.00,400.00)
+[INFO] - Lua mem usage: 795 KB and 107 bytes
+[INFO] - Room 1.136(New Room)
+[INFO] - SpawnRNG seed: 4255343135
+[INFO] - Spawn Entity with Type(5), Variant(40), Pos(80.00,160.00)
+[INFO] - Spawn Entity with Type(5), Variant(90), Pos(560.00,160.00)
+[INFO] - Spawn Entity with Type(5), Variant(90), Pos(80.00,400.00)
+[INFO] - Spawn Entity with Type(5), Variant(40), Pos(560.00,400.00)
+[INFO] - Lua mem usage: 797 KB and 275 bytes
+[INFO] - Room 1.111(New Room)
+[INFO] - SpawnRNG seed: 741540290
+[INFO] - Lua mem usage: 794 KB and 691 bytes
+[INFO] - Action PillCard Triggered
+[INFO] - Room 1.125(New Room)
+[INFO] - SpawnRNG seed: 1816486948
+[INFO] - Spawn Entity with Type(61), Variant(0), Pos(80.00,160.00)
+[INFO] - Spawn Entity with Type(61), Variant(0), Pos(560.00,160.00)
+[INFO] - Spawn Entity with Type(25), Variant(1), Pos(280.00,280.00)
+[INFO] - Spawn Entity with Type(25), Variant(1), Pos(360.00,280.00)
+[INFO] - Spawn Entity with Type(61), Variant(0), Pos(80.00,400.00)
+[INFO] - Spawn Entity with Type(61), Variant(0), Pos(560.00,400.00)
+[INFO] - Lua mem usage: 794 KB and 467 bytes
+[INFO] - Room 1.137(New Room)
+[INFO] - SpawnRNG seed: 3879368619
+[INFO] - Spawn Entity with Type(6), Variant(4), Pos(320.00,280.00)
+[INFO] - Lua mem usage: 794 KB and 771 bytes
+[INFO] - Room 1.115(New Room)
+[INFO] - SpawnRNG seed: 2184800819
+[INFO] - Spawn Entity with Type(257), Variant(0), Pos(120.00,200.00)
+[INFO] - Spawn Entity with Type(257), Variant(0), Pos(520.00,200.00)
+[INFO] - Spawn Entity with Type(257), Variant(0), Pos(120.00,360.00)
+[INFO] - Spawn Entity with Type(257), Variant(0), Pos(520.00,360.00)
+[INFO] - Lua mem usage: 794 KB and 411 bytes
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 4!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 6!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 8!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 10!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 12!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 14!
+[INFO] - Room 1.137(New Room)
+[INFO] - SpawnRNG seed: 3879368619
+[INFO] - Lua mem usage: 794 KB and 371 bytes
+[INFO] - Room 1.10000(Exit)
+[INFO] - SpawnRNG seed: 4004546126
+[INFO] - Spawn Entity with Type(1000), Variant(39), Pos(320.00,280.00)
+[INFO] - Lua mem usage: 794 KB and 123 bytes
+[INFO] - Level::Init m_Stage 2, m_StageType 0 Seed 3833758710
+[INFO] - delete 0 generated rooms.
+[INFO] - [RoomConfig] load stage 1: Basement (mode 0)
+[INFO] - allocate 1115 rooms.
+[INFO] - [ModManager] load stage 1: Basement (mode 0)
+[INFO] - [ModManager] load stage 1: Basement (mode 0)
+[INFO] - [ModManager] load stage 1: Basement (mode 0)
+[INFO] - [ModManager] load stage 1: Basement (mode 0)
+[INFO] - [ModManager] load stage 1: Basement (mode 0)
+[INFO] - [ModManager] load stage 1: Basement (mode 0)
+[INFO] - [ModManager] load stage 1: Basement (mode 0)
+[INFO] - generate...
+[INFO] - place_room: shape 6
+[INFO] - 12 rooms in 7 loops
+[INFO] - placing rooms...
+[INFO] - Map Generated in 1 Loops
+[INFO] - CURRENT ROOM INDEX 60 136a6ecc
+[INFO] - Room 5.2015(The Duke of Flies (copy))
+[INFO] - SpawnRNG seed: 2927442088
+[INFO] - Lua mem usage: 794 KB and 15 bytes
+[INFO] - Saving PersistentGameData to Steam Cloud: rep_persistentgamedata1.dat.
+[INFO] - Room 1.201(New Room)
+[INFO] - SpawnRNG seed: 3234152650
+[INFO] - Spawn Entity with Type(79), Variant(0), Pos(240.00,160.00)
+[INFO] - Spawn Entity with Type(79), Variant(0), Pos(560.00,360.00)
+[INFO] - Lua mem usage: 794 KB and 131 bytes
+[INFO] - TriggerBossDeath: 3 bosses remaining.
+[INFO] - TriggerBossDeath: 2 bosses remaining.
+[INFO] - TriggerBossDeath: 1 bosses remaining.
+[INFO] - TriggerBossDeath: 0 bosses remaining.
+[INFO] - deathspawn_boss, color idx -1
+[INFO] - Room 1.163(New Room)
+[INFO] - SpawnRNG seed: 4019044690
+[INFO] - Spawn Entity with Type(244), Variant(0), Pos(240.00,280.00)
+[INFO] - Spawn Entity with Type(244), Variant(2), Pos(320.00,280.00)
+[INFO] - Spawn Entity with Type(244), Variant(0), Pos(400.00,280.00)
+[INFO] - Lua mem usage: 795 KB and 171 bytes
+[INFO] - Room 1.194(New Room)
+[INFO] - SpawnRNG seed: 3831250246
+[INFO] - Spawn Entity with Type(208), Variant(0), Pos(200.00,280.00)
+[INFO] - Spawn Entity with Type(264), Variant(0), Pos(320.00,280.00)
+[INFO] - Spawn Entity with Type(292), Variant(0), Pos(400.00,280.00)
+[INFO] - Spawn Entity with Type(208), Variant(0), Pos(440.00,280.00)
+[INFO] - Lua mem usage: 794 KB and 531 bytes
+[INFO] - Room 1.186(New Room)
+[INFO] - SpawnRNG seed: 3528113744
+[INFO] - Spawn Entity with Type(16), Variant(2), Pos(80.00,160.00)
+[INFO] - Spawn Entity with Type(16), Variant(2), Pos(120.00,160.00)
+[INFO] - Spawn Entity with Type(16), Variant(2), Pos(80.00,200.00)
+[INFO] - Spawn Entity with Type(16), Variant(2), Pos(120.00,200.00)
+[INFO] - Spawn Entity with Type(16), Variant(2), Pos(520.00,360.00)
+[INFO] - Spawn Entity with Type(16), Variant(2), Pos(560.00,360.00)
+[INFO] - Spawn Entity with Type(16), Variant(2), Pos(520.00,400.00)
+[INFO] - Spawn Entity with Type(16), Variant(2), Pos(560.00,400.00)
+[INFO] - Lua mem usage: 794 KB and 451 bytes
+[INFO] - Action PillCard Triggered
+[INFO] - Room 1.161(New Room)
+[INFO] - SpawnRNG seed: 868089649
+[INFO] - Spawn Entity with Type(244), Variant(2), Pos(320.00,280.00)
+[INFO] - Lua mem usage: 794 KB and 219 bytes
+[INFO] - Room 1.186(New Room)
+[INFO] - SpawnRNG seed: 3528113744
+[INFO] - Lua mem usage: 794 KB and 171 bytes
+[INFO] - Room 1.185(New Room)
+[INFO] - SpawnRNG seed: 622205543
+[INFO] - Spawn Entity with Type(33), Variant(0), Pos(80.00,160.00)
+[INFO] - Spawn Entity with Type(33), Variant(0), Pos(560.00,160.00)
+[INFO] - Spawn Entity with Type(54), Variant(0), Pos(320.00,320.00)
+[INFO] - Spawn Entity with Type(54), Variant(0), Pos(240.00,360.00)
+[INFO] - Spawn Entity with Type(15), Variant(3), Pos(280.00,360.00)
+[INFO] - Spawn Entity with Type(15), Variant(3), Pos(360.00,360.00)
+[INFO] - Spawn Entity with Type(54), Variant(0), Pos(400.00,360.00)
+[INFO] - Spawn Entity with Type(33), Variant(0), Pos(120.00,400.00)
+[INFO] - Spawn Entity with Type(33), Variant(0), Pos(200.00,400.00)
+[INFO] - Spawn Entity with Type(33), Variant(0), Pos(280.00,400.00)
+[INFO] - Spawn Entity with Type(33), Variant(0), Pos(360.00,400.00)
+[INFO] - Spawn Entity with Type(33), Variant(0), Pos(440.00,400.00)
+[INFO] - Spawn Entity with Type(33), Variant(0), Pos(520.00,400.00)
+[INFO] - Lua mem usage: 796 KB and 355 bytes
+[INFO] - Room 1.10000(Exit)
+[INFO] - SpawnRNG seed: 53485240
+[INFO] - Spawn Entity with Type(1000), Variant(39), Pos(320.00,280.00)
+[INFO] - Lua mem usage: 794 KB and 211 bytes
+[INFO] - Level::Init m_Stage 1, m_StageType 0 Seed 584693024
+[INFO] - delete 0 generated rooms.
+[INFO] - generate...
+[INFO] - place_room: shape 6
+[INFO] - 13 rooms in 7 loops
+[INFO] - placing rooms...
+[INFO] - Map Generated in 1 Loops
+[INFO] - CURRENT ROOM INDEX 112 136a8944
+[INFO] - Room 5.3343(Widow)
+[INFO] - SpawnRNG seed: 3042651902
+[INFO] - Lua mem usage: 794 KB and 15 bytes
+[INFO] - Saving PersistentGameData to Steam Cloud: rep_persistentgamedata1.dat.
+[INFO] - Room 1.171(New Room)
+[INFO] - SpawnRNG seed: 3716661536
+[INFO] - Spawn Entity with Type(14), Variant(1), Pos(80.00,160.00)
+[INFO] - Spawn Entity with Type(14), Variant(0), Pos(560.00,160.00)
+[INFO] - Spawn Entity with Type(14), Variant(2), Pos(320.00,280.00)
+[INFO] - Spawn Entity with Type(14), Variant(0), Pos(80.00,400.00)
+[INFO] - Spawn Entity with Type(14), Variant(0), Pos(560.00,400.00)
+[INFO] - Lua mem usage: 794 KB and 915 bytes
+[INFO] - Room 1.204(New Room)
+[INFO] - SpawnRNG seed: 1142939521
+[INFO] - Spawn Entity with Type(67), Variant(0), Pos(120.00,200.00)
+[INFO] - Spawn Entity with Type(18), Variant(0), Pos(280.00,280.00)
+[INFO] - Spawn Entity with Type(18), Variant(0), Pos(360.00,280.00)
+[INFO] - Spawn Entity with Type(67), Variant(0), Pos(520.00,360.00)
+[INFO] - Lua mem usage: 794 KB and 483 bytes
+[INFO] - TriggerBossDeath: 1 bosses remaining.
+[INFO] - [warn] entity pool array class Entity_Familiar [64] is full, overwriting at index 12!
+[INFO] - TriggerBossDeath: 0 bosses remaining.
+[INFO] - deathspawn_boss, color idx -1
+[INFO] - Room 1.232(New Room (Wide))
+[INFO] - SpawnRNG seed: 468067412
+[INFO] - Spawn Entity with Type(223), Variant(0), Pos(560.00,200.00)
+[INFO] - Spawn Entity with Type(223), Variant(0), Pos(600.00,360.00)
+[INFO] - Lua mem usage: 794 KB and 371 bytes
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 25!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 108!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 110!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 112!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 114!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 116!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 118!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 120!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 122!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 27!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 29!
+[INFO] - Room 1.169(New Room)
+[INFO] - SpawnRNG seed: 1348770185
+[INFO] - Spawn Entity with Type(14), Variant(0), Pos(280.00,280.00)
+[INFO] - Spawn Entity with Type(14), Variant(2), Pos(320.00,280.00)
+[INFO] - Spawn Entity with Type(14), Variant(0), Pos(360.00,280.00)
+[INFO] - Lua mem usage: 795 KB and 427 bytes
+[INFO] - Room 1.232(New Room (Wide))
+[INFO] - SpawnRNG seed: 468067412
+[INFO] - Lua mem usage: 794 KB and 411 bytes
+[INFO] - Room 1.183(New Room)
+[INFO] - SpawnRNG seed: 3927695381
+[INFO] - Spawn Entity with Type(61), Variant(0), Pos(80.00,160.00)
+[INFO] - Spawn Entity with Type(61), Variant(0), Pos(120.00,160.00)
+[INFO] - Spawn Entity with Type(61), Variant(1), Pos(160.00,160.00)
+[INFO] - Spawn Entity with Type(61), Variant(0), Pos(200.00,160.00)
+[INFO] - Spawn Entity with Type(61), Variant(0), Pos(240.00,160.00)
+[INFO] - Spawn Entity with Type(61), Variant(0), Pos(400.00,400.00)
+[INFO] - Spawn Entity with Type(61), Variant(0), Pos(440.00,400.00)
+[INFO] - Spawn Entity with Type(61), Variant(0), Pos(480.00,400.00)
+[INFO] - Spawn Entity with Type(61), Variant(0), Pos(520.00,400.00)
+[INFO] - Spawn Entity with Type(61), Variant(0), Pos(560.00,400.00)
+[INFO] - Lua mem usage: 795 KB and 35 bytes
+[INFO] - Room 1.10000(Exit)
+[INFO] - SpawnRNG seed: 1818558417
+[INFO] - Spawn Entity with Type(1000), Variant(39), Pos(320.00,280.00)
+[INFO] - Lua mem usage: 794 KB and 15 bytes
+[INFO] - Level::Init m_Stage 13, m_StageType 0 Seed 1737266441
+[INFO] - delete 0 generated rooms.
+[INFO] - [RoomConfig] load stage 35: Home (mode 0)
+[INFO] - allocate 39 rooms.
+[INFO] - [ModManager] load stage 35: Home (mode 0)
+[INFO] - [ModManager] load stage 35: Home (mode 0)
+[INFO] - [ModManager] load stage 35: Home (mode 0)
+[INFO] - [ModManager] load stage 35: Home (mode 0)
+[INFO] - [ModManager] load stage 35: Home (mode 0)
+[INFO] - [ModManager] load stage 35: Home (mode 0)
+[INFO] - [ModManager] load stage 35: Home (mode 0)
+[INFO] - place_room: shape 4
+[INFO] - place_room: shape 4
+[INFO] - place_room: shape 4
+[INFO] - place_room: shape 2
+[INFO] - CURRENT ROOM INDEX 84 0c0b6e14
+[INFO] - Room 1.1(Isaac's Bedroom)
+[INFO] - SpawnRNG seed: 3442017738
+[INFO] - Spawn Entity with Type(5), Variant(380), Pos(120.00,200.00)
+[INFO] - Spawn Entity with Type(1000), Variant(74), Pos(320.00,280.00)
+[INFO] - Spawn Entity with Type(5), Variant(60), Pos(120.00,320.00)
+[INFO] - Lua mem usage: 794 KB and 15 bytes
+[INFO] - Saving PersistentGameData to Steam Cloud: rep_persistentgamedata1.dat.
+[INFO] - [warn] item pool ran out of repicks
+[INFO] - Room 1.2(Hallway)
+[INFO] - SpawnRNG seed: 1898671481
+[INFO] - Lua mem usage: 794 KB and 883 bytes
+[INFO] - Room 1.5(Closet R)
+[INFO] - SpawnRNG seed: 1101558936
+[INFO] - Spawn Entity with Type(5), Variant(0), Pos(200.00,280.00)
+[INFO] - Lua mem usage: 794 KB and 451 bytes
+[INFO] - Room 1.2(Hallway)
+[INFO] - SpawnRNG seed: 1898671481
+[INFO] - Lua mem usage: 794 KB and 571 bytes
+[INFO] - Room 1.4(Living Room)
+[INFO] - SpawnRNG seed: 4135981313
+[INFO] - Spawn Entity with Type(960), Variant(4), Pos(320.00,160.00)
+[INFO] - Spawn Entity with Type(1000), Variant(74), Pos(320.00,320.00)
+[INFO] - Spawn Entity with Type(960), Variant(3), Pos(320.00,480.00)
+[INFO] - Lua mem usage: 794 KB and 371 bytes
+[INFO] - Room 1.2(Hallway)
+[INFO] - SpawnRNG seed: 1324273567
+[INFO] - Lua mem usage: 794 KB and 411 bytes
+[INFO] - Room 1.3(Mom's Bedroom)
+[INFO] - SpawnRNG seed: 9631029
+[INFO] - Spawn Entity with Type(960), Variant(1), Pos(240.00,160.00)
+[INFO] - Spawn Entity with Type(960), Variant(2), Pos(520.00,160.00)
+[INFO] - Spawn Entity with Type(5), Variant(380), Pos(120.00,200.00)
+[INFO] - Spawn Entity with Type(1000), Variant(74), Pos(320.00,280.00)
+[INFO] - Spawn Entity with Type(5), Variant(390), Pos(120.00,360.00)
+[INFO] - Lua mem usage: 794 KB and 91 bytes
+[INFO] - Total entity spawn time: 9462 ms
+[INFO] - Total ANM2 loading time: 4801 ms
+[INFO] - AnmCache memory usage: 21820864 bytes in 1425 entries.
+[INFO] - Total entity spawn time: 9462 ms
+[INFO] - Total ANM2 loading time: 4801 ms
+[INFO] - AnmCache memory usage: 21820864 bytes in 1425 entries.
+[INFO] - Total entity spawn time: 9462 ms
+[INFO] - Total ANM2 loading time: 4801 ms
+[INFO] - AnmCache memory usage: 21820864 bytes in 1425 entries.
+[INFO] - Total entity spawn time: 9462 ms
+[INFO] - Total ANM2 loading time: 4801 ms
+[INFO] - AnmCache memory usage: 21820864 bytes in 1425 entries.
+[INFO] - Total entity spawn time: 9462 ms
+[INFO] - Total ANM2 loading time: 4801 ms
+[INFO] - AnmCache memory usage: 21820864 bytes in 1425 entries.
+[INFO] - Total entity spawn time: 9462 ms
+[INFO] - Total ANM2 loading time: 4801 ms
+[INFO] - AnmCache memory usage: 21820864 bytes in 1425 entries.
+[INFO] - item taken without exchange
+[INFO] - item queue flush
+[INFO] - Adding collectible 569 (Blood Oath) to player 0 (The Lost)
+[INFO] - [warn] entity pool array class Entity_Familiar [64] is full, overwriting at index 14!
+[INFO] - Room 1.2(Hallway)
+[INFO] - SpawnRNG seed: 1324273567
+[INFO] - Lua mem usage: 794 KB and 675 bytes
+[INFO] - Room 1.4(Living Room)
+[INFO] - SpawnRNG seed: 4135981313
+[INFO] - Lua mem usage: 794 KB and 651 bytes
+[INFO] - [warn] last boss died without triggering the deathspawn.
+[INFO] - Total entity spawn time: 9811 ms
+[INFO] - Total ANM2 loading time: 4952 ms
+[INFO] - AnmCache memory usage: 22193808 bytes in 1433 entries.
+[INFO] - [warn] last boss died without triggering the deathspawn.
+[INFO] - Action PillCard Triggered
+[INFO] - Total entity spawn time: 10312 ms
+[INFO] - Total ANM2 loading time: 5202 ms
+[INFO] - AnmCache memory usage: 22432200 bytes in 1438 entries.
+[INFO] - music stopped playing
+[INFO] - TriggerBossDeath: 0 bosses remaining.
+[INFO] - deathspawn_boss, color idx -1
+[INFO] - TriggerBossDeath: -1 bosses remaining.
+[INFO] - deathspawn_boss, color idx -1
+[INFO] - playing cutscene 25 (Dogma).
+[INFO] - Creating video from data source: gfx/cutscenes/Krystal_Dogma_Ending.ogv [16 precached frames].
+[INFO] - Framebuffer Width: 1920 
+ Render Width: 1920 
+ Window Width: 1920 
+ Multiplier: 0.500000 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+[INFO] - HQX4 size: 1920x1080
+[INFO] - Destroying video clip: gfx/cutscenes/Krystal_Dogma_Ending.ogv
+[INFO] - Viewport: 1920x1080
+[INFO] - Framebuffer Width: 1920 
+ Render Width: 960 
+ Window Width: 1920 
+ Multiplier: 4.500010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+[INFO] - HQX4 size: 960x540
+[INFO] - Saving PersistentGameData to Steam Cloud: rep_persistentgamedata1.dat.
+[INFO] - Room 16.666(Beast Room)
+[INFO] - SpawnRNG seed: 3524089996
+[INFO] - Spawn Entity with Type(951), Variant(0), Pos(520.00,320.00)
+[INFO] - Lua mem usage: 794 KB and 15 bytes
+[INFO] - Adding collectible 633 (Dogma) to player 0 (The Lost)
+[INFO] - [warn] no animation named BGIdle
+[INFO] - [warn] last boss died without triggering the deathspawn.
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 34!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 36!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 38!
+[INFO] - TriggerBossDeath: 0 bosses remaining.
+[INFO] - deathspawn_boss, color idx -1
+[INFO] - TriggerBossDeath: 0 bosses remaining.
+[INFO] - deathspawn_boss, color idx -1
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 21!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 28!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 30!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 32!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 34!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 36!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 38!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 40!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 42!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 44!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 35!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 16!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 18!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 20!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 6!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 8!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 87!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 89!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 91!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 35!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 37!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 39!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 41!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 42!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 44!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 8!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 10!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 12!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 14!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 16!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 18!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 42!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 0!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 2!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 4!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 6!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 106!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 108!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 110!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 112!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 114!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 116!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 118!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 6!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 8!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 10!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 12!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 28!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 30!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 32!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 34!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 73!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 75!
+[INFO] - TriggerBossDeath: 0 bosses remaining.
+[INFO] - deathspawn_boss, color idx -1
+[INFO] - Action PillCard Triggered
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 38!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 40!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 42!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 44!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 46!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 48!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 50!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 51!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 53!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 55!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 57!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 59!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 61!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 63!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 71!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 73!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 75!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 77!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 79!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 81!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 83!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 85!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 87!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 89!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 16!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 18!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 16!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 18!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 20!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 22!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 24!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 26!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 118!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 65!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 67!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 69!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 71!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 73!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 75!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 77!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 79!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 81!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 83!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 85!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 87!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 15!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 17!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 19!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 21!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 23!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 25!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 27!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 29!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 31!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 15!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 17!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 19!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 21!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 23!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 25!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 27!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 29!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 66!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 68!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 70!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 72!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 66!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 68!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 70!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 72!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 74!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 76!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 78!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 80!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 82!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 84!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 86!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 88!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 90!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 92!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 94!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 96!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 98!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 100!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 102!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 104!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 106!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 108!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 110!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 112!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 114!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 66!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 68!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 70!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 72!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 25!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 27!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 29!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 31!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 33!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 35!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 23!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 25!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 23!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 12!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 14!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 2!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 38!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 40!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 42!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 44!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 46!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 48!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 50!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 52!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 15!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 17!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 113!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 115!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 117!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 119!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 121!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 123!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 125!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 127!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 1!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 3!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 5!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 7!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 9!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 8!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 10!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 12!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 14!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 79!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 8!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 10!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 16!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 18!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 20!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 22!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 24!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 26!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 28!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 8!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 10!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 12!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 14!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 16!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 18!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 20!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 22!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 24!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 26!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 28!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 30!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 23!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 25!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 27!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 29!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 41!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 43!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 126!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 0!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 2!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 4!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 6!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 8!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 10!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 16!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 18!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 20!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 22!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 24!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 26!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 17!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 19!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 23!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 25!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 27!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 29!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 31!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 33!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 122!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 40!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 42!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 44!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 46!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 23!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 25!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 31!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 33!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 35!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 37!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 39!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 41!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 17!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 19!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 17!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 19!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 101!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 103!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 105!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 107!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 92!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 21!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 23!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 25!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 27!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 29!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 31!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 33!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 35!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 37!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 39!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 41!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 43!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 45!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 47!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 49!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 51!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 53!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 55!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 57!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 59!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 61!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 63!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 65!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 91!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 91!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 93!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 95!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 90!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 92!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 94!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 91!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 93!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 95!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 97!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 99!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 101!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 103!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 105!
+[INFO] - [warn] entity pool array class Entity_Laser [128] is full, overwriting at index 91!
+[INFO] - Caught exception, writing minidump...
